@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "261518794254",
+    "firebase_url": "https://medical-project-66920.firebaseio.com",
+    "project_id": "medical-project-66920",
+    "storage_bucket": "medical-project-66920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261518794254:android:1c04ed2ab5db9d92",
+        "android_client_info": {
+          "package_name": "com.example.bikash.bitmfirstproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261518794254-sjddm0c83rqcks8fujg9vh3ntlgeqjlj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bikash.bitmfirstproject",
+            "certificate_hash": "9f031c78b8dfb434b7efd183fb8d3efc0e325da0"
+          }
+        },
+        {
+          "client_id": "261518794254-u4j61mtrfrur2fttlha9huokfveid71b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChcam1cMGby-CH3ZRoom-8ZppMtdOab4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261518794254-u4j61mtrfrur2fttlha9huokfveid71b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
